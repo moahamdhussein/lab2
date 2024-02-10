@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="java">Java</string>
+    <string name="c">C++</string>
+    <string name="c_sharp">C#</string>
+    <string name="languages_that_you_prefer">Languages that you prefer</string>
+    <string name="enter">Enter</string>
+</resources>
